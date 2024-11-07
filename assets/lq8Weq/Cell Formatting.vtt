@@ -1,0 +1,79 @@
+﻿WEBVTT
+
+00:00:00.150 --> 00:00:02.150
+Vous remarquerez que les dates sont désordonnées et
+
+00:00:02.150 --> 00:00:04.670
+manquent d’uniformité, ce qui entraîne des incohérences
+
+00:00:04.670 --> 00:00:05.590
+à travers vos données
+
+00:00:08.905 --> 00:00:10.785
+Mettez en surbrillance les cellules contenant les dates que vous
+
+00:00:10.785 --> 00:00:11.825
+souhaitez formater
+
+00:00:12.019 --> 00:00:14.019
+Faites un clic droit sur votre sélection et un menu
+
+00:00:14.019 --> 00:00:16.579
+s’affichera. Choisissez « Formater les cellules »
+
+00:00:17.139 --> 00:00:19.579
+Une boîte de dialogue apparaîtra avec diverses
+
+00:00:19.579 --> 00:00:21.539
+options de mise en forme. Ici vous pouvez
+
+00:00:21.539 --> 00:00:24.219
+personnaliser les polices, les styles, les couleurs,
+
+00:00:24.219 --> 00:00:25.419
+l’alignement, et plus encore.
+
+00:00:26.059 --> 00:00:27.939
+Dans la liste des catégories à gauche,
+
+00:00:27.939 --> 00:00:28.659
+sélectionnez date.
+
+00:00:29.115 --> 00:00:31.075
+Vous verrez une variété de formats de date
+
+00:00:31.075 --> 00:00:33.275
+dans la section Type. Faites défiler
+
+00:00:33.275 --> 00:00:35.555
+les options et sélectionnez le format de date
+
+00:00:35.555 --> 00:00:37.795
+qui convient le mieux à vos besoins. Vous pouvez
+
+00:00:37.795 --> 00:00:39.635
+choisir parmi des options qui affichent la date
+
+00:00:39.635 --> 00:00:42.395
+intégralement, abrégent les mois ou même affichent
+
+00:00:42.395 --> 00:00:43.915
+seulement le mois et l’année.
+
+00:00:44.846 --> 00:00:47.446
+Pour des besoins plus spécifiques, cliquez sur Personnaliser.
+
+00:00:47.726 --> 00:00:49.926
+Ici, vous pouvez saisir manuellement un format
+
+00:00:49.926 --> 00:00:51.566
+à l’aide des codes de format personnalisés.
+
+00:00:51.950 --> 00:00:54.270
+Cliquez sur OK pour appliquer les modifications. Les
+
+00:00:54.270 --> 00:00:56.310
+cellules sélectionnées afficheront désormais les dates dans
+
+00:00:56.310 --> 00:00:57.470
+le format que vous avez choisi.

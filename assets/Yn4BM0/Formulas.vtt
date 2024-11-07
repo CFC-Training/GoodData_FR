@@ -1,0 +1,121 @@
+﻿WEBVTT
+
+00:00:00.190 --> 00:00:01.990
+Supposons que vous souhaitiez calculer le montant
+
+00:00:01.990 --> 00:00:04.030
+total des observations pour ce type de grenouille
+
+00:00:05.517 --> 00:00:07.997
+Commencez votre formule par un signe égal et
+
+00:00:07.997 --> 00:00:09.037
+saisissez le nom de la fonction
+
+00:00:10.716 --> 00:00:12.396
+La fonction que nous voulons utiliser est somme f
+
+00:00:12.396 --> 00:00:14.636
+ou addition.  Commencez par égal somme,
+
+00:00:15.084 --> 00:00:17.044
+puis sélectionnez les cellules ou saisissez leur
+
+00:00:17.044 --> 00:00:20.004
+références à l’intérieur des parenthèses. Terminez
+
+00:00:20.004 --> 00:00:21.524
+en fermant les parenthèses.
+
+00:00:22.345 --> 00:00:24.785
+Une fois votre formule terminée, appuyez sur
+
+00:00:24.785 --> 00:00:26.545
+entrer et voilà
+
+00:00:27.888 --> 00:00:29.608
+Examinons maintenant une formule plus
+
+00:00:29.608 --> 00:00:31.816
+complexe Si vous voulez compter le nombre
+
+00:00:31.816 --> 00:00:33.696
+d’occurrences où cette espèce de grenouille a été
+
+00:00:33.696 --> 00:00:35.976
+enregistrée à un niveau de confiance élevé, vous
+
+00:00:35.976 --> 00:00:37.416
+peut utiliser la fonction NB.SI (Count IF).
+
+00:00:37.920 --> 00:00:39.280
+Cliquez sur la cellule où vous voulez
+
+00:00:39.280 --> 00:00:40.160
+que le résultat apparaisse
+
+00:00:40.584 --> 00:00:42.344
+Saisissez Égal NB.SI pour démarrer votre
+
+00:00:42.344 --> 00:00:42.824
+formule
+
+00:00:43.784 --> 00:00:45.664
+Ensuite, sélectionnez la plage qui contient les
+
+00:00:45.664 --> 00:00:47.344
+noms des espèces, colonne A
+
+00:00:48.048 --> 00:00:50.448
+Saisissez une virgule, puis entre guillemets,
+
+00:00:50.448 --> 00:00:52.488
+spécifiez le nom de l’espèce qui vous
+
+00:00:52.488 --> 00:00:53.208
+intéresse
+
+00:00:53.592 --> 00:00:56.352
+Comme vous pouvez le voir, Excel fournit un indice
+
+00:00:56.352 --> 00:00:58.632
+sous la formule, afin de vous aider à déterminer
+
+00:00:58.632 --> 00:00:59.992
+le format d’écriture approprié
+
+00:01:00.504 --> 00:01:03.144
+Pour continuer, saisissez une autre virgule pour ajouter
+
+00:01:03.144 --> 00:01:05.544
+la2ème plage de critères, qui sera le
+
+00:01:05.544 --> 00:01:07.264
+niveau de confiance colonne B dans la
+
+00:01:07.264 --> 00:01:07.904
+feuille de calcul
+
+00:01:08.328 --> 00:01:10.808
+Saisissez la virgule finale et entre guillemets,
+
+00:01:10.808 --> 00:01:13.608
+indiquez le niveau de confiance souhaité 
+
+00:01:13.608 --> 00:01:14.008
+"haut"
+
+00:01:14.711 --> 00:01:16.671
+Faites glisser le coin de la cellule vers le bas pour
+
+00:01:16.671 --> 00:01:18.911
+répliquer la formule. Ensuite, ajustez le
+
+00:01:18.911 --> 00:01:21.111
+niveau de confiance dans les guillemets à
+
+00:01:21.231 --> 00:01:23.831
+"Moyen" ou "Bas pour
+
+00:01:23.831 --> 00:01:25.311
+obtenir les totaux respectifs

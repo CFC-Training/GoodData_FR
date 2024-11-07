@@ -1,0 +1,49 @@
+﻿WEBVTT
+
+00:00:00.213 --> 00:00:02.253
+Supposons que vous ayez une série de nombres ou
+
+00:00:02.253 --> 00:00:04.173
+de dates que vous devez saisir consécutivement
+
+00:00:05.813 --> 00:00:08.133
+Dans ce cas, créons une nouvelle colonne
+
+00:00:08.133 --> 00:00:08.773
+pour l’année
+
+00:00:09.721 --> 00:00:12.481
+Saisissez la valeur de départ dans une cellule égale à
+
+00:00:12.481 --> 00:00:13.841
+année F2
+
+00:00:18.686 --> 00:00:20.846
+Passez votre curseur sur le petit carré
+
+00:00:20.846 --> 00:00:22.806
+dans le coin inférieur droit de la cellule
+
+00:00:22.846 --> 00:00:24.566
+jusqu’à ce qu’il se transforme en croix noire
+
+00:00:25.214 --> 00:00:27.654
+Cliquez et faites glisser la croix vers le bas ou à travers
+
+00:00:27.654 --> 00:00:29.694
+et Excel remplira automatiquement la
+
+00:00:29.694 --> 00:00:30.454
+série pour vous
+
+00:00:31.420 --> 00:00:33.180
+Vous pouvez également le faire en double-cliquant
+
+00:00:33.180 --> 00:00:33.580
+sur la cellule
+
+00:00:36.420 --> 00:00:39.260
+Comme vous pouvez le voir, il n’est pas nécessaire de saisir manuellement
+
+00:00:39.260 --> 00:00:41.740
+chaque valeur, Excel fait le travail à votre place

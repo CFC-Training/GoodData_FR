@@ -1,0 +1,61 @@
+﻿WEBVTT
+
+00:00:00.150 --> 00:00:02.750
+Pour commencer, ajoutez une nouvelle feuille au fichier Excel
+
+00:00:02.750 --> 00:00:04.830
+en bas. Double-cliquez dessus pour
+
+00:00:04.830 --> 00:00:06.590
+le nommer « Tableau structuré ».
+
+00:00:08.593 --> 00:00:11.033
+Sélectionnez les données dans la colonne A en cliquant
+
+00:00:11.033 --> 00:00:13.633
+et en faisant glisser votre curseur dessus depuis la ligne
+
+00:00:13.633 --> 00:00:16.353
+une jusqu’à la ligne sept, faites un clic droit et sélectionnez copier.
+
+00:00:17.924 --> 00:00:19.884
+Accédez à votre nouvelle feuille et cliquez avec le bouton droit de la souris
+
+00:00:19.884 --> 00:00:22.644
+dans la cellule A1. Dans les options de collage, sélectionnez
+
+00:00:22.644 --> 00:00:25.444
+Transposer. Les données stockées dans les lignes sont désormais
+
+00:00:25.444 --> 00:00:27.324
+copiées sur plusieurs colonnes.
+
+00:00:43.237 --> 00:00:45.997
+Sélectionnez ensuite toutes les données, puis copiez et collez-les
+
+00:00:45.997 --> 00:00:48.837
+dans la nouvelle feuille dans la cellule A2, à nouveau
+
+00:00:48.837 --> 00:00:50.877
+à l’aide de l’option de collage Transposer.
+
+00:00:53.673 --> 00:00:55.873
+Maintenant, vos données sont correctement formatées en
+
+00:00:55.873 --> 00:00:58.273
+lignes et colonnes. Il vous suffit de changer
+
+00:00:58.273 --> 00:01:01.233
+la valeur dans A1 de « données » à « année »  pour
+
+00:01:01.233 --> 00:01:02.993
+que la colonne soit correctement étiquetée.
+
+00:01:03.457 --> 00:01:06.217
+Enfin, sélectionnez toutes vos données et formattez-les
+
+00:01:06.217 --> 00:01:08.337
+dans un tableau en utilisant l’une des méthodes
+
+00:01:08.337 --> 00:01:10.137
+que vous avez apprises dans l’exercice précédent.

@@ -1,0 +1,85 @@
+﻿WEBVTT
+
+00:00:00.190 --> 00:00:02.390
+Tout d’abord, commençons par sélectionner les
+
+00:00:02.390 --> 00:00:03.910
+données auxquelles vous souhaitez appliquer
+
+00:00:03.910 --> 00:00:04.630
+une mise en forme conditionnelle
+
+00:00:05.118 --> 00:00:07.078
+Sélectionnons la colonne B, par exemple
+
+00:00:07.518 --> 00:00:09.198
+Cliquez sur Mise en forme conditionnelle dans
+
+00:00:09.198 --> 00:00:09.758
+l’onglet Accueil
+
+00:00:10.855 --> 00:00:13.055
+Définissons maintenant les critères qui
+
+00:00:13.055 --> 00:00:15.335
+déclencheront vos règles de mise en forme. Vous pouvez
+
+00:00:15.335 --> 00:00:16.975
+choisir parmi des règles comme mettre en surbrillance
+
+00:00:16.975 --> 00:00:19.135
+les valeurs supérieures à un certain nombre ou
+
+00:00:19.135 --> 00:00:20.695
+contenant un texte spécifique
+
+00:00:21.175 --> 00:00:23.415
+Sélectionnons « texte qui contient »
+
+00:00:24.571 --> 00:00:27.131
+Dans la section de la boîte de dialogue, définissez vos
+
+00:00:27.131 --> 00:00:29.691
+critères. Par exemple, si vous voulez
+
+00:00:29.691 --> 00:00:31.451
+mettre en surbrillance les cellules contenant le mot « 
+
+00:00:31.451 --> 00:00:34.411
+Haut », saisissez « Haut » dans la zone de texte et
+
+00:00:34.411 --> 00:00:37.131
+sélectionnez « avec un remplissage rouge et du texte rouge foncé »
+
+00:00:38.483 --> 00:00:40.503
+Vous pouvez effectuer le même processus pour les mots « 
+
+00:00:40.503 --> 00:00:43.243
+moyen » et « faible » et choisir les
+
+00:00:43.243 --> 00:00:45.003
+couleurs dans lesquelles vous souhaitez les formater
+
+00:00:50.250 --> 00:00:52.010
+Vous devriez voir toutes les cellules contenant
+
+00:00:52.010 --> 00:00:54.210
+le mot « Haut » maintenant en surbrillance selon
+
+00:00:54.210 --> 00:00:56.530
+les options que vous avez choisies et ainsi de suite, ce qui permet une
+
+00:00:56.530 --> 00:00:58.450
+priorisation visuelle instantanée des
+
+00:00:58.450 --> 00:00:59.210
+données importantes
+
+00:00:59.714 --> 00:01:01.994
+Cette règle adaptatera également automatiquement
+
+00:01:01.994 --> 00:01:04.354
+le format de toutes les nouvelles entrées correspondant
+
+00:01:04.354 --> 00:01:05.634
+aux mots-clés spécifiés
